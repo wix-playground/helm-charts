@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   consul-helm:
   - apiVersion: v1
-    created: 2019-07-03T12:47:59.585004+03:00
+    created: 2019-07-03T12:55:29.373593+03:00
     description: Install and configure Consul on Kubernetes.
     digest: b21028308f2cfc63972d559d6b892177f7294c970e7132ba23bcc4eb8ff1849a
     home: https://www.consul.io
@@ -12,6 +12,6 @@ entries:
     - https://github.com/hashicorp/consul-helm
     - https://github.com/hashicorp/consul-k8s
     urls:
-    - https://wix-playground.github.com/helm-charts/consul-helm-0.8.1.tgz
+    - https://wix-playground.github.io/helm-charts/consul-helm-0.8.1.tgz
     version: 0.8.1
-generated: 2019-07-03T12:47:59.583084+03:00
+generated: 2019-07-03T12:55:29.369986+03:00
