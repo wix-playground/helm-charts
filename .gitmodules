@@ -1,0 +1,3 @@
+[submodule "helm-chart-sources/consul-helm"]
+	path = helm-chart-sources/consul-helm
+	url = https://github.com/wix-playground/consul-helm.git
