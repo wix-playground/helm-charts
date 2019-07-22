@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   consul-helm:
   - apiVersion: v1
-    created: 2019-07-22T16:36:28.089064+03:00
+    created: 2019-07-22T17:02:00.930235+03:00
     description: Install and configure Consul on Kubernetes.
     digest: 69f35300e65f1e40e15f2505947678ed5ba7fff0ba8bad441d831ff1bb85318b
     home: https://www.consul.io
@@ -17,9 +17,9 @@ entries:
   kube-iptables-tailer:
   - apiVersion: v1
     appVersion: v0.1.0
-    created: 2019-07-22T16:36:28.0903+03:00
+    created: 2019-07-22T17:02:00.931198+03:00
     description: A Helm chart for Kubernetes
-    digest: 4226023bc21b2ea300dab8f261b7a81d4d536c6df51c4ec88d9afd42c4af7e25
+    digest: dd81b5fad5376f882622c5e97ce25a2138a75bfa4885d6cced2456c05cd9dece
     home: https://github.com/box/kube-iptables-tailer
     keywords:
     - kube-iptables-tailer
@@ -39,7 +39,7 @@ entries:
     version: 0.1.1
   - apiVersion: v1
     appVersion: v0.1.0
-    created: 2019-07-22T16:36:28.089632+03:00
+    created: 2019-07-22T17:02:00.930816+03:00
     description: A Helm chart for Kubernetes
     digest: 575bdf9612edb9c695318e281a49b0aaf835e3779008e045c09bc063a25704b1
     home: https://github.com/box/kube-iptables-tailer
@@ -59,4 +59,4 @@ entries:
     urls:
     - https://wix-playground.github.io/helm-charts/kube-iptables-tailer-0.1.0.tgz
     version: 0.1.0
-generated: 2019-07-22T16:36:28.086412+03:00
+generated: 2019-07-22T17:02:00.927131+03:00
