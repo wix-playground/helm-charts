@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   consul-helm:
   - apiVersion: v1
-    created: 2019-07-03T12:55:29.373593+03:00
+    created: 2019-07-22T15:31:48.662023+03:00
     description: Install and configure Consul on Kubernetes.
-    digest: b21028308f2cfc63972d559d6b892177f7294c970e7132ba23bcc4eb8ff1849a
+    digest: 69f35300e65f1e40e15f2505947678ed5ba7fff0ba8bad441d831ff1bb85318b
     home: https://www.consul.io
     name: consul-helm
     sources:
@@ -14,4 +14,27 @@ entries:
     urls:
     - https://wix-playground.github.io/helm-charts/consul-helm-0.8.1.tgz
     version: 0.8.1
-generated: 2019-07-03T12:55:29.369986+03:00
+  kube-iptables-tailer:
+  - apiVersion: v1
+    appVersion: v0.1.0
+    created: 2019-07-22T15:31:48.6624+03:00
+    description: A Helm chart for Kubernetes
+    digest: 575bdf9612edb9c695318e281a49b0aaf835e3779008e045c09bc063a25704b1
+    home: https://github.com/box/kube-iptables-tailer
+    keywords:
+    - kube-iptables-tailer
+    - iptables
+    - calico
+    - networkpolicy
+    maintainers:
+    - email: matthieu.paret@lifen.fr
+      name: mtparet
+    - email: dali@lifen.fr
+      name: dadicool
+    name: kube-iptables-tailer
+    sources:
+    - https://github.com/box/kube-iptables-tailer
+    urls:
+    - https://wix-playground.github.io/helm-charts/kube-iptables-tailer-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-07-22T15:31:48.66058+03:00
